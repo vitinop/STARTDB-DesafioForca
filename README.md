@@ -9,7 +9,7 @@
 <div align="start">
 <h2>🔧 Regras do projeto:</h2># O desafio da forca
 
-O desafio de seleção do StartDB.desse ano será desenvolver as regras de um jogo da forca. 
+O desafio de seleção do StartDB desse ano será desenvolver as regras de um jogo da forca. 
 
 <p align="center"> <img  height="350m" src="https://github.com/dbserver/startdb-2022/blob/main/docs/forca.gif" />
 
