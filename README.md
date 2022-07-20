@@ -37,7 +37,7 @@ Ex.: A palavra secreta é "bala" e o jogador chutou a letra "b", então a palavr
 
 <div align="start">
 <h2>🖥️ Como executar o projeto:</h2>
-<p align="center"><img height="250em" src="" /></p>
+<p align="center"><img height="350em" src="https://github.com/vitinop/STARTDB-DesafioForca/blob/main/documentacao/estruturapastas.png" /></p>
 <p align="center">Essa é a estutra de pastas base do projeto</p>
   
 Para iniciar aplicação é necessário: 
@@ -50,14 +50,14 @@ Para iniciar aplicação é necessário:
 </ol>
 </div>
   
-<p align="justify">&emsp;Em linhas gerais, essa é a estrutura definida para este projeto, para este caso específico. É importante entender isso, pois nem sempre essa arquitetura será repetida em todos os projetos, mas podemos dizer que tentamos seguir boas práticas, como os bons desenvolvedores que queremos ser.</p>
+<p align="justify">&emsp;Em linhas gerais, essa é a estrutura definida para este projeto, para este caso específico. É importante entender isso, pois nem sempre essa arquitetura será repetida em todos os projetos.</p>
 
 
 ---  
  
 
 <h3 align="center">Imagens de amostra do projeto finalizado</h3>
-<p align="center"> <img  height="250em" src="" /></p>
+<p align="center"> <img  height="350em" src="https://github.com/vitinop/STARTDB-DesafioForca/blob/main/documentacao/jogorodando.png" /></p>
 
 
 
