@@ -4,7 +4,9 @@
   "description": "",
   "main": "desafio.js",
   "scripts": {
-    "start": "node desafio/desafio.js"
+    "start": "node desafio/desafio.js",
+    "testfeliz": "node validacao/caminho-feliz.js",
+    "testtriste": "node validacao/caminho-triste.js"
   },
   "license": "ISC",
   "dependencies": {
