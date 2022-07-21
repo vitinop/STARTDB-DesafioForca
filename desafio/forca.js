@@ -11,7 +11,7 @@ class Forca {
   chutar(letra) {
     const letraTratada = letra.toLowerCase();
     if (!this.isCaracterValido(letraTratada)) {
-      return console.log("Você insiriu um ou mais cateres inválidos. \n  Tente novamente inserindo apenas uma letra")
+      return console.log("Você insiriu um ou mais caracteres inválidos. \n  Tente novamente inserindo apenas uma letra")
     }
     if (this.letrasChutadas.includes(letraTratada)) {
       return console.log("A Letra já foi inserida, insira outro caracter")
