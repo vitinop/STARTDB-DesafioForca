@@ -59,7 +59,7 @@
 </div>
 
 <p align="justify">&emsp;Em linhas gerais, essa é a estrutura definida para este projeto, para este caso específico. É
-  importante entender isso, pois nem sempre essa arquitetura será repetida em todos os projetos.</p>
+  importante entender isso, pois nem sempre essa arquitetura de projeto.</p>
 
 
 ---
